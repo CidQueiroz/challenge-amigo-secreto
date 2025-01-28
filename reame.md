@@ -21,21 +21,10 @@ JavaScript: Lógica de programação para adicionar nomes, validar entradas e re
 
 Fontes Google: Utilização das fontes Inter e Merriweather para um design clean e profissional.
 
-📂 Estrutura do Projeto
-Copy
-amigo-secreto/
-├── index.html          # Página principal do projeto
-├── style.css           # Estilos CSS para a aplicação
-├── app.js              # Lógica JavaScript para funcionalidades
-├── assets/             # Pasta contendo imagens e ícones
-│   ├── amigo-secreto.png
-│   └── play_circle_outline.png
-└── README.md           # Documentação do projeto
-
 🖥️ Como Executar o Projeto
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/CidQueiroz/amigo-secreto.git
 Navegue até a pasta do projeto:
 
 cd amigo-secreto
